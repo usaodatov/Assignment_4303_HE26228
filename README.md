@@ -14,8 +14,10 @@ echo service in both TCP and UDP modes (Task 2 of the brief).
 
 ## Start on the VM - backend ecomerce server
 *Server  (TCP on port 9000)*
+
 python3 server.py tcp
 
 
 *Another terminal – 10 clients hit the server:*
+
 python3 client.py 127.0.0.1 tcp 10 "Hello server"
