@@ -1,7 +1,7 @@
 # SWE4303 Socket-Programming Demo  
 *(Regent College London – Computing Infrastructure Portfolio)*
 
-This repo contains two lightweight Python scripts that demonstrate a raw client–server
+This repo contains two lightweight Python scripts AND folder containing assesmsnt required SCREENSHOTS that demonstrate a raw client–server
 echo service in both TCP and UDP modes (Task 2 of the brief).
 
 
